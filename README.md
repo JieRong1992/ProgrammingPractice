@@ -1,2 +1,2 @@
 # ProgrammingPractice
-Recorded some exerices from cc150 and somewhere else
+Recorded some exerices using python from cc150 and somewhere else
